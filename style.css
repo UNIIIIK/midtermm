@@ -1,0 +1,326 @@
+body{
+    background-color: #efb64d;
+    margin: 0%;
+}
+
+.menu{
+    margin: 2%;
+    width: 23px;
+}
+
+.acc{
+    margin-top: 2%;
+    margin-left: 20mm;
+    width: 20px;
+    position: absolute;
+}
+
+.cart{
+    margin-top: 2%;
+    margin-left: 45mm;
+    width: 1cm;
+    position: absolute;
+}
+
+.kylle{
+    color: #c83434;
+    font-family: rubik mono one;
+    font-size: 7rem;
+    letter-spacing: -1mm;
+    margin-top: 1.5cm;
+    margin-left: 1.5cm;
+    position: absolute;
+    left: 5%;
+}
+
+.redone{
+    background: #c83434;
+    width: 40%;
+    height: 90%;
+    margin-top: -3cm;
+    margin-left: 9.8cm;
+    border-radius: 50px;
+    position: absolute;
+    left: 40%;
+}
+
+.chickone{
+    width: 10.5cm;
+    margin-top: 4.3cm;
+    margin-left: 3mm;
+}
+
+.firstlogo{
+    width: 3.7cm;
+    margin-top: 2.6cm;
+    margin-left: 4cm;
+    rotate: 9deg;
+    margin-top: 20%;
+    margin-left: 44%;
+    
+   
+
+}
+
+.redbgone{
+    background-color: #c83434;
+    width: 15.5cm;
+    height: 30mm;
+    margin-top: 1%;
+    margin-left: 7.4%;
+    position: absolute;
+    rotate: 9deg;
+    left: 2%;
+}
+.chicken{
+    color: #ffce0f;
+    font-family: Rubik Moonrocks;
+    font-size: 7rem;
+    margin-left: 3mm;
+    position: absolute;
+    left: 3%;
+    font-display: center;
+    
+}
+
+.order{
+    background-color: #e68234;
+    width: 6cm;
+    height: 1.8cm;
+    margin-top: 15%;
+    margin-left: 12mm;
+    position: absolute;
+    border-radius: 50px;
+    left: 20%;
+}
+
+.txtorder{
+    color: aliceblue;
+    font-family: paytone one;
+    font-size: 9mm;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.orangeone{
+    background-color: #dd9818;
+    width: 50%;
+    height: auto;
+    margin-top: 30%;
+    margin-left: -12mm;
+    border-radius: 50px;
+}
+
+.manok{
+    width: 3cm;
+    margin-top: 3%;
+    margin-left: 2cm;
+    position: absolute;
+    left: 3%;
+    
+ 
+}
+
+.manokss{
+    width: 3cm;
+    margin-top: 1cm;
+    margin-left: 6cm;
+    position: absolute;
+    left: 8%;
+}
+
+.arrow{
+    width: 17mm;
+    rotate: 90deg;
+    margin-top: 11mm;
+    margin-left: 80%;
+    margin-bottom: 10mm;
+}
+
+.seclogo{
+    width: 33mm;
+    margin-top: -23%;
+    margin-left: 14.2cm;
+    position: absolute;
+    left: 30%;
+    
+}
+
+.yellow{
+    background-color: #ffce0f;
+    width: 6cm;
+    height: 27mm;
+    margin-top: -14%;
+    margin-left: 65%;
+    border-radius: 20px;
+    position: absolute;
+}
+
+.percent{
+    color: #c83434;
+    font-family: paytone one;
+    font-size: 5mm;
+    text-align: center;
+    margin-top: 7mm;
+    margin-left: 25%;
+    position: absolute;
+}
+
+.off{
+    color: black;
+}
+
+.redtwo{
+    background: #c83434;
+    width: 50%;
+    height: auto;
+    margin-top: 2cm;
+    margin-left: -11mm;
+    border-radius: 50px;
+}
+
+.chicktwo{
+    width: 10cm;
+    margin-top: 5mm;
+    margin-left: 40mm;
+}
+
+.pwede{
+    width: 5.5cm;
+    margin-top: -30%;
+    margin-left: 57%;
+    position: absolute;
+    
+}
+
+.thirdlogo{
+    width: 3.7cm;
+    margin-top: -9.3cm;
+    margin-left: 76%;
+    rotate: 9deg;
+    position: absolute;
+}
+
+.redbg{
+    background-color: #c83434;
+    width: 10.5cm;
+    height: 17mm;
+    margin-top: -19%;
+    margin-left: 56%;
+    position: absolute;
+    rotate: 9deg;
+}
+.pulutan{
+    color: #ffce0f;
+    font-family: Rubik Moonrocks;
+    font-size: 14mm;
+    margin-left: 20mm;
+}
+
+.enjoy{
+    font-size: 5.5mm;
+    font-family: Montserrat;
+    font-weight: 500;
+    margin-top: -10%;
+    margin-left: 57%;
+}
+
+.inqueries{
+    color: #c83434;
+    font-family: fantasy;
+    font-size: large;
+    letter-spacing: 1px;
+    margin-left: 4%;
+    margin-top: 5%;
+}
+
+.info{
+    color: aliceblue;
+    font-family: paytone one;
+    font-size: smaller;
+    line-height: 6mm;
+    letter-spacing: .5px;
+    margin-top: -17mm;
+    margin-left: 16%;
+}
+
+.orangetwo{
+    background-color: #dd9818;
+    width: 50%;
+    height: auto;
+    margin-top: -5%;
+    margin-left: 52%;
+    border-radius: 50px;
+}
+
+.lowermanok{
+    width: 3.5cm;
+    margin-top: 3%;
+    margin-left: 2cm;
+    position: absolute;
+    left: 75%;
+}
+
+.lowermanokss{
+    width: 3.5cm;
+    margin-top: 1cm;
+    margin-left: 6cm;
+    position: absolute;
+    right: 28%;
+
+}
+
+.arrowtwo{
+    width: 20mm;
+    rotate: 90deg;
+    margin-top: 11mm;
+    margin-left: 5%;
+    margin-bottom: 5mm;
+}
+
+.contact{
+    background-color: #e68234;
+    width: 4.5cm;
+    height: 1cm;
+    margin-top: -3%;
+    margin-left: 30mm;
+    position: absolute;
+    border-radius: 50px;
+}
+
+.txtcontact{
+    color: aliceblue;
+    font-family: paytone one;
+    font-size: 5mm;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.line{
+    background-color: #d6c096;
+    color: #efb64d;
+    height: 2px;
+    margin-top: 10%;
+
+}
+
+.bottom{
+    margin-top: 5mm;
+}
+
+.socmed{
+    letter-spacing: 1cm;
+    margin-left: 40%;
+   
+}
+
+.sm{
+    width: 12mm;
+}
+
+.lastlogo{
+    width: 2.5cm;
+    margin-top: -5mm;
+    rotate: -15deg;
+    position: absolute;
+}
