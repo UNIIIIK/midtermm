@@ -1,0 +1,354 @@
+body{
+    background-color: #efb64d;
+    margin: 0%;
+}
+
+.menu{
+    margin: 2%;
+    width: 23px;
+    /* position: relative; */
+}
+
+.acc{
+    margin-top: 2%;
+    margin-left: 20mm;
+    width: 20px;
+    position: absolute;
+}
+
+.cart{
+    margin-top: 2%;
+    margin-left: 45mm;
+    width: 1cm;
+    position: absolute;
+}
+
+.searchbg{
+    background-color: #dd9818;
+    width: 7cm;
+    height: 8mm;
+    margin-top: -1cm;
+    margin-left: 12cm;
+    position: absolute;
+    border-radius: 50px;
+    left: 40%;
+}
+
+.search{
+    color: aliceblue;
+    font-family: paytone one;
+    font-size: 4mm;
+    letter-spacing: .5mm;
+    margin-left: 1cm;
+    margin-top: 1%;
+}
+
+.btnsearch{
+    width:5mm;
+    margin-top: 1mm;
+    margin-left: 2mm;
+    position: absolute;
+}
+
+.nativebg{
+    background-color: #ffce0f;
+    width: 10cm;
+    height: 10cm;
+    border-radius: 50px;
+    margin-top: 1.5cm;
+    margin-left: 8mm;
+    position: absolute;
+    left: 10%;
+}
+
+.native{
+    color: #bb2f2f;
+    font-family: paytone one;
+    font-size: 2.0cm;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 15%;
+    position: absolute;
+
+
+}
+
+.logoone{
+    width: 3.7cm;
+    margin-top: 70%;
+    margin-left: 100%;
+    rotate: 9deg;
+    margin-left: 50%;
+}
+
+.pricebg{
+    background-color: #c83434;
+    width: 6cm;
+    height: 17mm;
+    margin-top: -1cm;
+    margin-left: 24%;
+    position: absolute;
+    rotate: 9deg;
+}
+.eight{
+    color: #ffce0f;
+    font-family: Rubik Moonrocks;
+    font-size: 14mm;
+    margin-left: 4mm;
+}
+
+.redone{
+    background: #c83434;
+    width: 10cm;
+    height: 10.5cm;
+    margin-top: 1cm;
+    margin-left: 60%;
+    border-radius: 50px;
+}
+
+.chickone{
+    width: 9.4cm;
+    margin-top: 1cm;
+    margin-left: 3mm;
+}
+
+.addcart{
+    width: 15mm;
+    margin-top: -5mm;
+    margin-left: 5mm;
+}
+
+.redtwo{
+    background: #c83434;
+    width: 11cm;
+    height: 12cm;
+    margin-top: 3cm;
+    margin-left: 12%;
+    border-radius: 50px;
+}
+
+.chicktwo{
+    width: 9cm;
+    margin-top: 1cm;
+    margin-left: 3mm;
+}
+
+.addcartone{
+    width: 15mm;
+    margin-top: -5mm;
+    margin-left: 80%;
+}
+
+.nativebgone{
+    background-color: #ffce0f;
+    width: 10cm;
+    height: 10cm;
+    border-radius: 50px;
+    margin-top: 1.5cm;
+    margin-left: 8mm;
+    position: absolute;
+    left: 57%;
+    top: 80%;
+    
+}
+
+.nativeone{
+    color: #bb2f2f;
+    font-family: paytone one;
+    font-size: 2.0cm;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 15%;
+    position: absolute;
+
+
+}
+
+.logotwo{
+    width: 3.7cm;
+    margin-top: 70%;
+    margin-left: 100%;
+    rotate: 9deg;
+    margin-left: 50%;
+}
+
+.pricebgone{
+    background-color: #c83434;
+    width: 6cm;
+    height: 17mm;
+    margin-top: -1cm;
+    margin-left: 24%;
+    position: absolute;
+    rotate: 9deg;
+}
+.eightone{
+    color: #ffce0f;
+    font-family: Rubik Moonrocks;
+    font-size: 14mm;
+    margin-left: 20%;
+}
+
+.redthree{
+    background: #c83434;
+    width: 10cm;
+    height: 10.5cm;
+    margin-top: 1cm;
+    margin-left: 60%;
+    border-radius: 50px;
+}
+
+.chickthree{
+    width: 9.4cm;
+    margin-top: 1cm;
+    margin-left: 3mm;
+}
+
+.addcartwo{
+    width: 15mm;
+    margin-top: 5mm;
+    margin-left: 10mm;
+}
+
+.nativebgtwo{
+    background-color: #ffce0f;
+    width: 12cm;
+    height: 10cm;
+    border-radius: 50px;
+    margin-top: -27%;
+    margin-left: 8mm;
+    position: absolute;
+    left: 10%;
+}
+
+.nativetwo{
+    color: #bb2f2f;
+    font-family: paytone one;
+    font-size: 2.0cm;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 24%;
+    position: absolute;
+
+
+}
+
+.logotwo{
+    width: 3.7cm;
+    margin-top: 60%;
+    margin-left: 100%;
+    rotate: 9deg;
+    margin-left: 50%;
+}
+
+.pricebgthree{
+    background-color: #c83434;
+    width: 6.5cm;
+    height: 17mm;
+    margin-top: -1cm;
+    margin-left: 24%;
+    position: absolute;
+    rotate: 9deg;
+}
+.eightwo{
+    color: #ffce0f;
+    font-family: Rubik Moonrocks;
+    font-size: 14mm;
+    margin-left: 12%;
+}
+
+.redfor{
+    background: #c83434;
+    width: 11cm;
+    height: 12cm;
+    margin-top: 3cm;
+    margin-left: 12%;
+    border-radius: 50px;
+}
+
+.chickfor{
+    width: 9cm;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+
+.addcarthree{
+    width: 15mm;
+    margin-top: 20%;
+    margin-left: 75%;
+}
+
+.nativebgthree{
+    background-color: #ffce0f;
+    width: 12cm;
+    height: 10cm;
+    border-radius: 50px;
+    margin-top: -33%;
+    margin-left: 8mm;
+    position: absolute;
+    left: 50%;
+}
+
+.nativethree{
+    color: #bb2f2f;
+    font-family: paytone one;
+    font-size: 2.0cm;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 24%;
+    position: absolute;
+
+
+}
+
+.logothree{
+    width: 3.7cm;
+    margin-top: 60%;
+    margin-left: 100%;
+    rotate: 9deg;
+    margin-left: 50%;
+}
+
+.pricebgfor{
+    background-color: #c83434;
+    width: 6.5cm;
+    height: 17mm;
+    margin-top: -1cm;
+    margin-left: 24%;
+    position: absolute;
+    rotate: 9deg;
+}
+.eighthree{
+    color: #ffce0f;
+    font-family: Rubik Moonrocks;
+    font-size: 14mm;
+    margin-left: 14%;
+}
+
+.line{
+    background-color: #d6c096;
+    color: #efb64d;
+    height: 2px;
+    margin-top: 10%;
+
+}
+
+.bottom{
+    margin-top: 5mm;
+}
+
+.socmed{
+    letter-spacing: 1cm;
+    margin-left: 40%;
+   
+}
+
+.sm{
+    width: 12mm;
+}
+
+.lastlogo{
+    width: 2.5cm;
+    margin-top: -5mm;
+    rotate: -15deg;
+    position: absolute;
+}
